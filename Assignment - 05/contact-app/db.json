@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "first_name": "Hasnat Zaman",
+      "last_name": "Porosh",
+      "email": "porosh@gmail.com",
+      "phone": "017777777777",
+      "address": "Dhaka"
+    },
+    {
+      "id": "e8f1",
+      "first_name": "MD. Naimuzzaman",
+      "last_name": "Naim",
+      "email": "naim@yahoo.com",
+      "phone": "012222222222222",
+      "address": "Bogra"
+    },
+    {
+      "id": "ba5b",
+      "first_name": "Ashraful Haque",
+      "last_name": "Abir",
+      "email": "abir@outlook.com",
+      "phone": "01888888888",
+      "address": "Chittagong"
+    }
+  ]
+}
