@@ -2,8 +2,8 @@
 ---
 Name : Hasnat Zaman Porosh <br>
 Email: poroshhasnatzaman@gmail.com <br>
-Live url: 
-https://mern-assignment-05.onrender.com/
+Live url: <br>
+https://mern-assignment-05.onrender.com/ <br>
 https://incomparable-gaufre-fe255d.netlify.app/
 ## ScreenShots:
 <img width="1903" height="571" alt="Screen Shot 2026-01-21 at 00 19 42-fullpage" src="https://github.com/user-attachments/assets/bdd3f154-6893-4e23-97a9-9d3804473d37" />
