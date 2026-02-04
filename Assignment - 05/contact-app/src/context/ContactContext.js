@@ -7,7 +7,7 @@ export const ContactProvider = ({ children }) => {
   const [contacts, setContacts] = useState([]);
   const [loading, setLoading] = useState(true);
 
-  const API_URL = "http://localhost:5000/contacts";
+  const API_URL = "https://mern-assignment-05.onrender.com/contacts";
 
   const fetchContacts = async () => {
     try {
@@ -62,3 +62,4 @@ export const ContactProvider = ({ children }) => {
     </ContactContext.Provider>
   );
 };
+
